@@ -68,5 +68,5 @@ export default {
         margin-left: 15px;
     }
     .user-list ul { margin: 0px; padding: 0px; }
-    .user-list ul li { list-style-type: none; padding: 15px; margin: 15px; display: flex; flex-direction: row;}
+    .user-list ul li { list-style-type: none; padding: 15px; margin: 15px; display: flex; flex-direction: row; background-color: #EAEAEA; border-radius: 20px;}
 </style>
